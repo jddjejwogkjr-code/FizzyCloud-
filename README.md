@@ -1,22 +1,30 @@
 # ☁️ FizzyCloud™
 
-Official repository of FizzyCloud™ Hosting.
+High-Performance Game & Cloud Hosting.
 
 ## 🚀 Features
-- High Performance Hardware
-- NVMe SSD Storage
+- High-Speed NVMe SSD Storage
+- Powerful Ryzen CPUs and Intel cpus
 - DDoS Protection
-- Instant Setup
+- Instant Server Setup
 - 24/7 Support
+- 99.9% Uptime
 
 ## 🎮 Services
 - Minecraft Hosting
-- Hytale Hosting
 - VPS Hosting
 - Discord Bot Hosting
 
+## 🌐 Links
+- Website: https://www.fizzycloud.qzz.io
+- Discord: https://discord.gg/fizzycloud
+- Panel: panel only for free and paid user
+
 ## 📞 Support
-For support, open a ticket on our Discord server.
+Need help? Join our Discord server and create a support ticket.
+
+## 📜 Legal
+By using FizzyCloud™ services, you agree to our Terms of Service and Privacy Policy.
 
 ---
 © 2026 FizzyCloud™. All Rights Reserved.
