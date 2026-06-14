@@ -4,7 +4,7 @@ High-Performance Game & Cloud Hosting.
 
 ## 🚀 Features
 - High-Speed NVMe SSD Storage
-- Powerful Ryzen CPUs and Intel cpus
+- Powerful Ryzen CPUs and Intel CPUs
 - DDoS Protection
 - Instant Server Setup
 - 24/7 Support
@@ -18,7 +18,7 @@ High-Performance Game & Cloud Hosting.
 ## 🌐 Links
 - Website: https://www.fizzycloud.qzz.io
 - Discord: https://discord.gg/fizzycloud
-- Panel: panel only for free and paid user
+- Panel: Available for both free and paid users
 
 ## 📞 Support
 Need help? Join our Discord server and create a support ticket.
